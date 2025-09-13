@@ -29,7 +29,7 @@ Las cookies son proporcionadas por el usuario; la herramienta **no extrae ni env
 Capturas mostrando las principales etapas del sistema:
 
 ### Vista Final del Archivo 
-![Vista inicial](assets/Comproiobeni.JPG)
+![Vista inicial](assets/Compriobteni.JPG)
 
 ### Paso 0 — Configuración
 
@@ -59,13 +59,14 @@ Capturas mostrando las principales etapas del sistema:
 
 ![Paso 6](assets/Paso6.JPG)
 
+### Paso 7 — Descarga
+
+![Paso 7](assets/Paso7.JPG)
+
 ### Paso 7.1 — Reintentos de errores
 
 ![Paso 7.1](assets/Paso7.1.JPG)
 
-### Paso 7 — Descarga
-
-![Paso 7](assets/Paso7.JPG)
 
 ### Paso 8 — Exportación extendida
 
