@@ -2,11 +2,8 @@
 
 **Tipo de archivo:** Python · Jupyter · Portable
 
-**Autor:** Gabriel Angel Castañeda Huaytalla
-
 📩 **Contacto:** [gabrielce992@gmail.com](mailto:gabrielce992@gmail.com)
 
-📱 **WhatsApp:** +51 991 744 486 🇵🇪
 
 ---
 
