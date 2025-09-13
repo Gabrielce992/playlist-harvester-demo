@@ -28,8 +28,7 @@ Las cookies son proporcionadas por el usuario; la herramienta **no extrae ni env
 
 Capturas mostrando las principales etapas del sistema:
 
-### Vista Final del Archivo 
-![Vista inicial](assets/Compriobteni.JPG)
+
 
 ### Paso 0 — Configuración
 
@@ -72,6 +71,8 @@ Capturas mostrando las principales etapas del sistema:
 
 ![Paso 8](assets/Paso8.JPG)
 
+### Vista Final del Archivo 
+![Vista inicial](assets/Compriobteni.JPG)
 ---
 ## 🚀 Guía de Usuario — Playlist Harvester AI v2.0
 
